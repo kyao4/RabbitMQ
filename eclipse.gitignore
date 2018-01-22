@@ -1,0 +1,4 @@
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+*.project
