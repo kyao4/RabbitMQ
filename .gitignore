@@ -2,3 +2,13 @@
 *.pydevproject
 
 *.project
+
+#--------------------------Java-----------------------
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+#Java project bin
+/java_rabbitmq/bin/
